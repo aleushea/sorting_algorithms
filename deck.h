@@ -51,4 +51,4 @@ char card_value(deck_node_t *card);
 void sort_kind(deck_node_t **deck);
 void sort_value(deck_node_t **deck);
 
-#endif
+#endif /* DECK_H_ */
